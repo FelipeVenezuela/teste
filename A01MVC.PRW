@@ -4,6 +4,7 @@
 user Function A01MVC()
     
     Local oBrowse
+    Local cteste
 
     oBrowse := FwmBrowse():NEW
 
